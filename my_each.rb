@@ -6,6 +6,6 @@ def my_each(array)
   end
 end
 
-my_each(array) do |item|
+my_each do |item|
   puts item
 end
